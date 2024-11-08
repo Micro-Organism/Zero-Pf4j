@@ -1,0 +1,7 @@
+spring:
+    application:
+        name: zero-pf4j-plugin
+    profiles:
+        active: dev
+server:
+    port: 8080
